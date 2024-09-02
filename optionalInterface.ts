@@ -6,7 +6,7 @@ interface Person {
     lastName?: string;
 }
 
-let person: Person = {
+let person : Person = {
     firstName: 'John'
 }
 
